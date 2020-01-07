@@ -1,2 +1,2 @@
-# WordBook
-Personal wordbook about IT with a bird's eye view.
+# DevNote
+Personal dev note about IT with a bird's eye view.
