@@ -74,7 +74,7 @@
 * 세션은 WAS 자체에 저장되기 때문에, 두 대 이상의 WAS를 이용하는 경우, 또는 failover이나 auto scaling으로 대체된 WAS 에게도 세션이 공유되어야 하기 때문에 동일한 세션을 여러 곳에서 사용할 수 있도록 관리하는 것
 * clustering [참고](https://github.com/devOTTO/DevNote/blob/master/iaas-lb-clustering.md#%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)
 
-## 참고 자료
+#### 참고 자료
 
 * https://ithub.tistory.com/101
 * https://limmmee.tistory.com/4
