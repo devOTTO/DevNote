@@ -202,9 +202,17 @@
 * Collector - 대상이 되는 타켓 서버의 정보를 HBase가 저장/ Web UI 보여주는 것을 쌓아둠
 * Agent - 각각의 대상 서버에 pinpoint agent를 줘 각각의 pinpoint agent가 collector의 데이터를 udp/tcp + thrift를 통해 보내주고 디비에 저장 후 web ui가 보여줌
 
-#### 제니퍼
+#### 제니퍼(상용)
+
+* 실시간 통합 모니터링
+* 성능 분석 및 통계
+* 장애 진단 관리
+* CLOUD 지원
 
 #### Scouter
+
+* Apache License v2.0 / LG CNS
+* 웹 기반이 아닌 이클립스 기반의 애플리케이션 클라이언트로 빠른 반응 속도 - 실시간 모니터링 적합
 
 #### SPOF(Single Point of Failure)
 
@@ -233,3 +241,4 @@
 * https://expitly.tistory.com/44
 * https://www.popit.kr/우아한-테크-세미나-자바-성능-모니터링-이야기-후기/
 * https://sugerent.tistory.com/523
+* http://www.opennaru.com/apm/open-source-monitoring-tool/
