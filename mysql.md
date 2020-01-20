@@ -104,7 +104,7 @@
 | Requirement	| MySQL Replication| 	MySQL Cluster|
 | ------- | --- | --- |
 | Availability |
-| Platform Support	|All Supported by MySQL Server<br> (https://www.mysql.com/support/supportedplatforms/database.html)	|All Supported by MySQL Cluster<br> (https://www.mysql.com/support/supportedplatforms/cluster.html)
+| Platform Support	|All Supported by MySQL Server<br>[link](https://www.mysql.com/support/supportedplatforms/database.html)	|All Supported by MySQL Cluster<br>[link](https://www.mysql.com/support/supportedplatforms/cluster.html)
 |Automated IP Failover|	No|	Depends on Connector and Configuration|
 |Automated Database Failover|	No|	Yes|
 |Automatic Data Resynchronization	|No	|Yes|
