@@ -12,6 +12,7 @@ Personal dev note by OTTO.
 ## Database
 * [MySQL](https://github.com/devOTTO/DevNote/blob/master/mysql.md#mysql)
 * [MySQL 이중화 solution](https://github.com/devOTTO/DevNote/blob/master/mysql.md#db-%EC%9D%B4%EC%A4%91%ED%99%94-%EC%86%94%EB%A3%A8%EC%85%98)
+* [Storage](https://github.com/devOTTO/DevNote/blob/master/database.md)
 ## Server
 * [Apache Tomcat](https://github.com/devOTTO/DevNote/blob/master/tomcat.md#apache--tomcat)
 * [mod_jk](https://github.com/devOTTO/DevNote/blob/master/tomcat.md#mod_jk)
