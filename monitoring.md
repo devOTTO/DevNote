@@ -115,9 +115,30 @@
 ![image](https://user-images.githubusercontent.com/42940194/75229619-a1b7c200-57f5-11ea-9183-b32cea9a617d.png)
     * 비슷하지만 다른 ELK 로그 분석 시스템이 있다.
     <br>![image](https://user-images.githubusercontent.com/42940194/75229580-8cdb2e80-57f5-11ea-9920-49ba37b1012a.png)
+## Monitoring Tools
+
+### Collectd
+* System and application metrics collector
+* collectd gathers statistics about the system it is running on and stores this information. Those statistics can then be used to find current performance bottlenecks (i.e. performance analysis) and predict future system load (i.e. capacity planning). Or if you just want pretty graphs of your private server and are fed up with some homegrown solution you're at the right place, too.
+
+## Log Management
+### Fluentd 
+* Unified logging layer
+*  Fluentd collects events from various data sources and writes them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop and so on. Fluentd helps you unify your logging infrastructure.
+
+
+### Telegraf
+
+
+
+
+
+
+
 
 
 ## 참고자료
 
 * https://chigon.tistory.com/entry/성능-테스트시-서버-모니터링-방법-정리
 * https://www.slideshare.net/LeeIGoo/db-wgraphitegrafana
+* https://stackshare.io/stackups/collectd-vs-fluentd
