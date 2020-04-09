@@ -10,7 +10,8 @@ Personal dev note by OTTO.
 * [IaaS, SaaS, PaaS](https://github.com/devOTTO/DevNote/blob/master/iaas-lb-clustering.md#iaas-saas-paas)
 * [Load Balancing](https://github.com/devOTTO/DevNote/blob/master/iaas-lb-clustering.md#load-balancer-%EC%B0%B8%EA%B3%A0-%EB%A7%81%ED%81%AC)
 * [Clustering](https://github.com/devOTTO/DevNote/blob/master/iaas-lb-clustering.md#load-balancer-%EC%B0%B8%EA%B3%A0-%EB%A7%81%ED%81%AC)
-
+## PaaS
+* [API Gateway](https://github.com/devOTTO/DevNote/blob/master/apigateway.md)
 ## Database
 * [MySQL](https://github.com/devOTTO/DevNote/blob/master/mysql.md#mysql)
 * [MySQL 이중화 solution](https://github.com/devOTTO/DevNote/blob/master/mysql.md#db-%EC%9D%B4%EC%A4%91%ED%99%94-%EC%86%94%EB%A3%A8%EC%85%98)
